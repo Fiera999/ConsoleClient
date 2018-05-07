@@ -1,0 +1,1 @@
+START /MIN MinecraftClient.exe email/username password serverip

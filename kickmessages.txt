@@ -1,0 +1,10 @@
+
+[ChatControl]nnPlease wait 3 second(s) before logging in.Connection has been lost
+Server is restarting
+Server is full
+too many people
+Connection throttled! Please wait before reconnecting.
+<translation 'join_throttle_kick' missing>
+Connection failed : Incorrect password
+Incorrect password
+You have connected too fast. You must wait at least 0 seconds between connections.
